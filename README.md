@@ -1,2 +1,0 @@
-# Abstract-activity
-abstract activity
